@@ -1,0 +1,18 @@
+local
+- working directory 
+- Stage: 
+- Local repository
+comit once the changes are saved
+
+repo -> a place where all versions of file is store
+     -> every record of work, every change ever made
+
+push -> local repo to remote repo
+
+github -> cloud back-up for code
+
+cd -> change directory
+
+open file directory:
+bash -> open .
+windows -> explorer.exe .
